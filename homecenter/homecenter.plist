@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://www.dropbox.com/scl/fi/hwcwu188t5gd2d9lyks0m/Homecenter.ipa</string>
+					<string>https://rodsevich.github.io/distribucion/homecenter/homecenter.plist</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://www.lostiempos.com/sites/default/files/styles/noticia_detalle/public/media_imagen/2023/11/20/patitos.jpg?itok=83RFQzwg</string>
+					<string>https://rodsevich.github.io/distribucion/homecenter/patitos.jpg</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://www.lostiempos.com/sites/default/files/styles/noticia_detalle/public/media_imagen/2023/11/20/patitos.jpg?itok=83RFQzwg</string>
+					<string>https://rodsevich.github.io/distribucion/homecenter/patitos.jpg</string>
 				</dict>
 			</array>
 			<key>metadata</key>
